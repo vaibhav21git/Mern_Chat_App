@@ -1,0 +1,1 @@
+By default, MongoDB creates an _id property on every document that's of type ObjectId. Many other databases use a numeric id property by default, but in MongoDB and Mongoose, ids are objects by default.
